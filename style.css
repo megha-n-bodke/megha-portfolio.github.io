@@ -783,19 +783,19 @@ li:last-child {
 
   /* image changed in desktop version */
   .desktop1 {
-    content: url(../images/Desktop1.svg);
+    content: url(./images/Desktop1.svg);
   }
 
   .desktop2 {
-    content: url(../images/Desktop2.svg);
+    content: url(./images/Desktop2.svg);
   }
 
   .desktop3 {
-    content: url(../images/Desktop3.svg);
+    content: url(./images/Desktop3.svg);
   }
 
   .desktop4 {
-    content: url(../images/Desktop4.svg);
+    content: url(./images/Desktop4.svg);
   }
 
   .frame2 .card-role li::before {
